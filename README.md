@@ -1,10 +1,11 @@
 # Felipe Nunes
 
 ## Olá pessoal 👋
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas, porém antes mesmo de começar a faculdade eu já estava estudando programação e me apaixonei com as possibilidades.
+Comecei nesse mundo da programação com C#, a intensão era descobrir se gostaria da área. Hoje trabalho como Full Stack Developer na Avanade.
 
- :office:  &nbsp; Buscando uma oportunidade de trabalho.
- <br/> :book: &nbsp; Estudando .NET Core e Angular
+ :office:  &nbsp; Trabalho na Avanade.
+ <br/> :school: &nbsp; Análise e Desenvolvimento de Sistemas.
+ <br/> :book: &nbsp; Tenho conhecimentos em Node, Angular, .Net Core, HTML, CSS e um pouco de Azure.
  <br/> 💬  &nbsp; Sobre mim: Gosto de ter novas experiências, curto tecnologias, games e filmes.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FelipeNunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipenno/)](https://www.linkedin.com/in/felipenno/) 
 | 
